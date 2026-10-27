@@ -1,0 +1,13 @@
+{
+  "target": "https://example.com",
+  "scan_time_utc": "SAMPLE ONLY - replace with actual scan time",
+  "status": "SAMPLE ONLY - not a real scan result",
+  "http_status": null,
+  "https_used": true,
+  "security_score": 0,
+  "score_max": 7,
+  "checks": [],
+  "notes": [
+    "This is a template, not a real scan result. Run scanner.py to generate actual results."
+  ]
+}
